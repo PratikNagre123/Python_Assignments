@@ -1,12 +1,27 @@
-# Python Programming Assignments
+# Functions and Math Module – Assignment 3
 
-This repository contains solutions to Python programming assignments. Each assignment is organized in its own folder. Click on the folder to view the relevant tasks and code files.
+This folder contains two Python programs focused on function usage and mathematical operations using the math module.
 
-## Assignments List
+## Task 1: Calculate Factorial Using a Function
+- Defines a function to calculate the factorial of a number using a loop or recursion.
+- Calls the function with a sample input and prints the result.
 
-- [Basic Python Tasks – Assignment 1](./Basic%20Python%20Tasks%20–%20Assignment%201)
-- [Control Structures in Python – Assignment 2](./Control%20Structures%20in%20Python%20–%20Assignment%202)
+## Task 2: Using the Math Module for Calculations
+- Takes user input for a number.
+- Uses the math module to calculate:
+  - Square root
+  - Natural logarithm (log base e)
+  - Sine (in radians)
+- Displays the calculated results.
 
-Each folder contains:
-- Python script files (.py)
-- A README file explaining the tasks completed in that assignment
+## How to Run
+Make sure Python is installed. Then execute the scripts using:
+
+```bash
+python task1_factorial.py
+python task2_math_module.py
+```
+
+## Files Included
+- `task1_factorial.py`
+- `task2_math_module.py`
